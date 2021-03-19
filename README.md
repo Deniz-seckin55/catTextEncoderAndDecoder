@@ -1,5 +1,5 @@
 # catTextEncoderAndDecoder
-This is a executable program made in C# language. It allows you to encode/decode your text.
+This is an executable program made in C# language. It allows you to encode/decode your text.
 How to use:
   1 - Download and open the program
   2 - Select your mod (Encode/Decode)
